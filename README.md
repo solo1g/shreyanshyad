@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreyansh</h1>
-<h3 align="center">Here is a fake enthusiastic message that would somehow convey my coding skills. How? That's beyond me. I feel these profile readme's are a mistake. CMV.</h3>
+<p align="center">Here is a fake enthusiastic message that would somehow convey my coding skills. How? That's beyond me. I feel these profile readme's are a mistake. CMV.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyanshyad&label=Profile%20views&color=0e75b6&style=flat" alt="shreyanshyad" /> </p>
 
